@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# macOS
+.DS_Store
+
+# Reports
+reports/
+*.csv
+
+# Environment variables
+.env
+
+# Credentials
+config.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
