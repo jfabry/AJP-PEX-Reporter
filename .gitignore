@@ -22,6 +22,9 @@ reports/
 # Credentials
 config.py
 
+# Test oracle (may contain sensitive data)
+oracle.json
+
 # IDE
 .vscode/
 .idea/
